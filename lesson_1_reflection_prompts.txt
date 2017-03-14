@@ -1,1 +1,2 @@
-Travis Shields is cool.
+Travis Shields is cool!
+I love git.
